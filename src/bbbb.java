@@ -6,6 +6,7 @@ public class bbbb {
 
         System.out.println("ne haber");
         System.out.println("dddd");
+        System.out.println("gfjukılol");
     }
 
 }
